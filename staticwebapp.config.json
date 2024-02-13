@@ -1,0 +1,10 @@
+{
+  "routes": [
+    {
+      "route": "/",
+      "serve": "/bin/staticsites/4ac4b2d1-eedc-4cd7-842f-3b4c2ecdcaf0-swa-oryx/app"
+    }
+  ],
+  "outputLocation": "/bin/staticsites/4ac4b2d1-eedc-4cd7-842f-3b4c2ecdcaf0-swa-oryx/app",
+  "appArtifactLocation": "/bin/staticsites/4ac4b2d1-eedc-4cd7-842f-3b4c2ecdcaf0-swa-oryx/app"
+}
